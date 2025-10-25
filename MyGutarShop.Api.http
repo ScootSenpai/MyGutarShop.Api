@@ -1,0 +1,6 @@
+@MyGutarShop.Api_HostAddress = http://localhost:5205
+
+GET {{MyGutarShop.Api_HostAddress}}/
+Accept: application/json
+
+###
